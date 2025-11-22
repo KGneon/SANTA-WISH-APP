@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f85c3a05-2af9-4909-b3ec-e847f9ae8136" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SANTA-WISH-APP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLotery" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/src/main/java/com/wishforsanta/WebAppForSantaGiftsPartyLoteryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/src/main/java/com/wishforsanta/controller/WishesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/src/main/java/com/wishforsanta/entity/Participant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/src/main/java/com/wishforsanta/entity/Party.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/src/main/java/com/wishforsanta/entity/SantaLotery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/src/main/java/com/wishforsanta/entity/Wish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/src/main/java/com/wishforsanta/service/WishServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/christmasWishListWithSantaLoteryBackend/src/test/java/com/wishforsanta/WebAppForSantaGiftsPartyLoteryApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Kamilg &lt;kam.gor45@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KGneon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KGneon/SANTA-WISH-APP.git&quot;,
+    &quot;accountId&quot;: &quot;ed9a03d1-5c5a-4206-aa8c-c0b96915b24f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="35pbPsCJr6KaU7Od9rZGcPVKxJQ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;Q:/CODING_APPS/SANTA-WISH-APP&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f85c3a05-2af9-4909-b3ec-e847f9ae8136" name="Changes" comment="" />
+      <created>1763809940771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763809940771</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1763810149844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763810149844</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit frontend">
+      <option name="closed" value="true" />
+      <created>1763810704871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763810704871</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit&#10;&#10;(cherry picked from commit 71d226d3e6a5b64fe32896b9328639526043d6b7)">
+      <option name="closed" value="true" />
+      <created>1763810937742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763810937742</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[wishlist template] Initital front app commit&#10;&#10;(cherry picked from commit af11f3157882d44a450e0b4ef7bf692b043bb87f)">
+      <option name="closed" value="true" />
+      <created>1763810984954</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763810984954</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added separate wish-list component&#10;&#10;(cherry picked from commit 53f9fae9e5238d59055fce27247ae5c020cf9f2f)">
+      <option name="closed" value="true" />
+      <created>1763811040978</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763811040978</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Initial commit frontend" />
+    <MESSAGE value="initial commit&#10;&#10;(cherry picked from commit 71d226d3e6a5b64fe32896b9328639526043d6b7)" />
+    <MESSAGE value="[wishlist template] Initital front app commit&#10;&#10;(cherry picked from commit af11f3157882d44a450e0b4ef7bf692b043bb87f)" />
+    <MESSAGE value="Added separate wish-list component&#10;&#10;(cherry picked from commit 53f9fae9e5238d59055fce27247ae5c020cf9f2f)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added separate wish-list component&#10;&#10;(cherry picked from commit 53f9fae9e5238d59055fce27247ae5c020cf9f2f)" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
