@@ -1,5 +1,6 @@
 import { Component, signal } from '@angular/core';
 import { WishItem } from '../shared/models/wishItem';
+import events from './.../shared/services/EventService';
 
 @Component({
   selector: 'app-root',
@@ -15,5 +16,14 @@ export class App {
     new WishItem("D", false)
   ]; 
 
-  filter: any = () => {};
+  constructor() {
+    events.listen('removeWish', (wish : any) => {
+      //todo remove wish from items
+      let index = this.items.indexOf(wish);
+      this.items.splice(index, 1);
+    })
+  }
+
+
+  filter: any;
 }
