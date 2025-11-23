@@ -1,6 +1,6 @@
 import { Component, signal } from '@angular/core';
 import { WishItem } from '../shared/models/wishItem';
-import events from './.../shared/services/EventService';
+import events from './../shared/services/EventService';
 
 @Component({
   selector: 'app-root',
