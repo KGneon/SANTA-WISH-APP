@@ -1,0 +1,7 @@
+[
+        { "wishText" : "A", "isComplete" : true},
+        { "wishText" : "B", "isComplete" : true},
+        { "wishText" : "C", "isComplete" : true},
+        { "wishText" : "D", "isComplete" : true},
+        { "wishText" : "E", "isComplete" : true}
+]

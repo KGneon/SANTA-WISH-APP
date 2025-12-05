@@ -1,6 +1,7 @@
 import { Component, signal } from '@angular/core';
 import { WishItem } from '../shared/models/wishItem';
-import events from './../shared/services/EventService';
+import { EventService } from './../shared/services/EventService';
+import { WishService } from './wishService';
 
 @Component({
   selector: 'app-root',
@@ -10,13 +11,10 @@ import events from './../shared/services/EventService';
 })
 export class App {
   items : WishItem[] = [
-    new WishItem("A", true),
-    new WishItem("B", false),
-    new WishItem("C", true),
-    new WishItem("D", false)
+    
   ]; 
 
-  constructor() {
+  constructor(events: EventService, wishService: WishService) {
     events.listen('removeWish', (wish : any) => {
       //todo remove wish from items
       let index = this.items.indexOf(wish);

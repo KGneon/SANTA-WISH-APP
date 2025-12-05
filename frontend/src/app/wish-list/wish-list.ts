@@ -8,23 +8,14 @@ import { WishItem } from '../../shared/models/wishItem';
   styleUrl: './wish-list.css',
 })
 export class WishList  implements OnInit {
-  @Input() wishText! : string;
-  @Input() fullfilled! : boolean;
-  @Output() fullfilledChange = new EventEmitter<boolean>();
+  @Input() wishes : WishItem[] = [];
 
-  get cssClasses() {
-    return {'strikeout text-muted': this.fullfilled};
-  }
-
-  constructor() {
-
-  }
+  constructor() {}
 
   ngOnInit(): void{
-
   }
 
-  checkOrUncheck(item : WishItem){
+  toggleItem(item : WishItem){
     item.isComplete = !item.isComplete;
     console.log("clicked item", item);
   }
